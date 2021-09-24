@@ -7,7 +7,7 @@ This project acts as an interactive brochure with a call-to-action which can be 
 <h3 align="left">Prerequisites: </h3>
 
 ---
-Html, CSS, Bootstrap
+Html, CSS, Bootstrap, Javascript
 
 <h3 align="left">How to run: </h3>
 
